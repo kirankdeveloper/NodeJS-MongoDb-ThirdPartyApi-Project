@@ -1,6 +1,7 @@
-#NodejS Project
+## NodejS Project
 
-##Technology
+## Technology
+
 •	GitHub - please fork this repo and clone to keep your own personal copy for review
 
 •	NodeJS Express Framework (Node version 5.7.1)
@@ -17,7 +18,8 @@
 
 •	Use MVC architecture
 
-##Project Requirements
+## Project Requirements
+
 •	Created a login form using npm passport-local authentication
 
 •	Included menu navigation using bootstrap navbar (Home, Search, Logout)
@@ -43,6 +45,7 @@
 	
 •	Logout 
 
-##Host Solution
+## Host Solution
+
 •	Providing a URL to a working demo of the solution with login information for review.
 	https://aqueous-shelf-56488.herokuapp.com/ 
